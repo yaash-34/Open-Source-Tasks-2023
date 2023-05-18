@@ -7,7 +7,7 @@ var imgHeight = 170;
 
 // the task starts here 
 // currently the bgMusicURL is not working
-// create a folder called Music and insert a music file in it then the music in the website should work
+// create a folder called Music and insert a music file in it then the music on the website should work
 bgMusicURL = './Music/music.mp3'
 var bgMusicControls = true; 
 

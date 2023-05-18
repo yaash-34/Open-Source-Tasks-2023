@@ -23,7 +23,7 @@ Also note that it is not mandatory to attempt all the subtasks. You can attempt 
 
 - In the repository there will be a folder sub2-2. You can see there are three files `index.html`, `style.css`, `script.js` and a folder `images`. Here can download an extension `live server` if you are using `vs code` or just can open the file `index.html` on your browser to see the output. To see the task you have to navigate to `script.js` file. Now create an issue on the [main repo](https://github.com/Coding-Club-IITG/Open-Source-Tasks-2023) and descripe the issue as given inside `script.js` file. After doing the changes push it on your branch and make a pull request. While making the pull request link the issue you created earlier with your pull request and give the subject `subtask2-2/solved-issue`
 
-    Note : While staging the file with command `git, make sure you only add the file that you want to add. The task 2 for this subtask is not mandotory however attempting this will give you edge over others.
+    Note : While staging the file with command `git add`, make sure you only add the file that you want to add. The task 2 for this subtask is not mandotory however attempting this will give you an edge over others.
 
 ## Sub Task 3:
 Create a [Github Action](https://docs.github.com/en/actions) in a new repository demonstrating a simple and creative workflow. It's upto the participants on what they want to build. For this task, participants will be judged on the creativity of the workflow they will implement with Github Action.
