@@ -19,7 +19,7 @@ Also note that it is not mandatory to attempt all the subtasks. You can attempt 
 
 ## Sub Task 2:
 
-- Fork and clone the repo from the [Coding Club](https://github.com/Coding-Club-IITG/Open-Source-Tasks-2023) GitHub Account. In the repository there will be a folder sub2-1 go inside template hello world program with a name `hello.cpp`. In the existing template change `world` to (your name | your roll number) then push the changes and create a pull request with subject `subtask2-1/added-information`
+- Fork and clone the repo from the [Coding Club](https://github.com/Coding-Club-IITG/Open-Source-Tasks-2023) GitHub Account. In the repository there will be a folder sub2-1 go inside template hello world program with a name `hello.cpp`. In the existing template change `world` to (your name | your roll number) then push the changes to your branch and create a pull request with subject `subtask2-1/added-information`
 
 - In the repository there will be a folder sub2-2. You can see there are three files `index.html`, `style.css`, `script.js` and a folder `images`. Here can download an extension `live server` if you are using `vs code` or just can open the file `index.html` on your browser to see the output. To see the task you have to navigate to `script.js` file. Now create an issue on the [main repo](https://github.com/Coding-Club-IITG/Open-Source-Tasks-2023) and descripe the issue as given inside `script.js` file. After doing the changes push it on your branch and make a pull request. While making the pull request link the issue you created earlier with your pull request and give the subject `subtask2-2/solved-issue`
 
